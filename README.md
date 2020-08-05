@@ -7,7 +7,6 @@ Mobil dengan data Produsen Mobil adalah One-to-Many.
 
 Project ini dikerjakan secara individu sebagai syarat mendapatkan nilai UAS pada Matakuliah Pemograman WEB 2
 - Nama  : Aida Mahmudah
-- NIM   : 4817070273
 - Kelas : TI-6D
 
 Buatlah database baru dengan nama 'db_ucollection' terlebih dahulu, lalu import file 'db_ucollection.sql' yang berada dalam folder 'db_ucollection' 
