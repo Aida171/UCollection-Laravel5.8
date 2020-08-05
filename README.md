@@ -10,7 +10,7 @@ Project ini dikerjakan secara individu sebagai syarat mendapatkan nilai UAS pada
 - NIM   : 4817070273
 - Kelas : TI-6D
 
-Buatlah database baru dengan nama 'db_ucollection' terlebih dahulu, lalu import file db_ucollection.sql yang berada dalam folder 'db_ucollection' 
+Buatlah database baru dengan nama 'db_ucollection' terlebih dahulu, lalu import file 'db_ucollection.sql' yang berada dalam folder 'db_ucollection' 
 setelah database telah selesai dibuat maka program sudah dapat dijalankan.
 
 Login Admin :
