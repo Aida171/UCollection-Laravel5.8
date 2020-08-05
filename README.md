@@ -1,6 +1,6 @@
 # UCollection - Laravel5.8
 Aplikasi ini dibuat dengan tujuan untuk memudahkan pencatatan data macam-macam mobil klasik yang berada pada Showroom Mobil UCollection, 
-baik itu dari nama mobil, maupun dari produsen yang membuat nya. Website ini menggunakan framework Laravel berdasar pada Bahasa pemprograman php, 
+baik itu dari nama mobil, maupun dari produsen yang membuat nya. Website ini menggunakan framework Laravel berdasar pada Bahasa pemprograman php.
 
 Aplikasi ini menerapkan fungsi Login dan Register sebagai verifikasi akun masuk, One-to-Many sebagai penghubung antara data Koleksi Mobil dengan data Produsen Mobil. 
 CRUD digunakan untuk melakukan operasi data pada tabel Mobil dan tabel produsen serta dapat juga melakukan Upload foto. 
