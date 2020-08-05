@@ -6,9 +6,9 @@ Aplikasi ini menerapkan fungsi Login dan Register sebagai verifikasi akun masuk,
 CRUD digunakan untuk melakukan operasi data pada tabel Mobil dan tabel produsen serta dapat juga melakukan Upload foto. 
 
 Project ini dikerjakan secara individu sebagai syarat mendapatkan nilai UAS pada Matakuliah Pemograman WEB 2
-Nama  : Aida Mahmudah
-NIM   : 4817070273
-Kelas : TI-6D
+- Nama  : Aida Mahmudah
+- NIM   : 4817070273
+- Kelas : TI-6D
 
 Buatlah database baru dengan nama 'db_ucollection' terlebih dahulu, lalu import file db_ucollection.sql yang berada dalam folder 'db_ucollection' 
 setelah database telah selesai dibuat maka program sudah dapat dijalankan.
